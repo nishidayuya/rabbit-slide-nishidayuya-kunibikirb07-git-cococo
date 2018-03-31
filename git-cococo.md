@@ -45,7 +45,7 @@ $ git cococo bundle update
 ```
 
 0. コマンド実行前にコミット漏れがないか確認
-0. sedを実行
+0. bundle updateを実行
 0. 「run: git cococo bundle update」といったコミットメッセージで変更点をコミット
 
 # もう一度同じことをするためのコミットメッセージ
@@ -62,7 +62,7 @@ $ git cococo bundle update
 
 # 動機
 
-松江Ruby会議06のa_matsudaさんの話
+松江Ruby会議08のa_matsudaさんの話
 
 * 「コード生成するコマンドを実行した場合は、そのままコミットするのが望ましい。」
     * 読みたいのは人間が書いた部分
