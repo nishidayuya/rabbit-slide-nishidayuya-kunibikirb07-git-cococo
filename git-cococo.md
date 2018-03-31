@@ -14,9 +14,12 @@ theme
 
 # 自己紹介
 
-* NaCl
+* 西田雄也
 * Twitter，GitHub: `@nishidayuya`
-* 昨年末にTL40
+* 趣味:
+    * 小さいものを書く
+    * スノーボード
+    * なんとかGo（昨年末にTL40）
 
 # git cococoってなに?
 
