@@ -16,9 +16,9 @@ git cococoの説明とRailsアプリケーション開発で使われる場面�
 
 ### インストール
 
-    gem install rabbit-slide-nishidayuya-rabbit-slide-nishidayuya-kunibikirb07-git-cococo
+    gem install rabbit-slide-nishidayuya-kunibikirb07-git-cococo
 
 ### 表示
 
-    rabbit rabbit-slide-nishidayuya-rabbit-slide-nishidayuya-kunibikirb07-git-cococo.gem
+    rabbit rabbit-slide-nishidayuya-kunibikirb07-git-cococo.gem
 
