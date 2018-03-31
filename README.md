@@ -1,6 +1,6 @@
 # git cococoとRailsアプリ開発
 
-TODO: スライドの説明
+git cococoの説明とRailsアプリケーション開発で使われる場面を説明します．
 
 ## 作者向け
 
